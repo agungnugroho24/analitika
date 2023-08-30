@@ -74,10 +74,10 @@ $active_group = 'analitika';
 $active_record = TRUE;
 
 $database[1]= array(	'alias' 	=> 'analitika',
-						'hostname'	=> 'localhost',
-						'username'	=> 'p0220005',
-						'password'	=> 'analitika-aegis',
-						'database'	=> 'p0220005_analitika');
+						'hostname'	=> '',
+						'username'	=> '',
+						'password'	=> '',
+						'database'	=> '');
 
 
 
